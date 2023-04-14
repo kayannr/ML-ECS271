@@ -1,6 +1,6 @@
 # ECS271 - Machine Learning & Discovery
 
-- HW1: kNN implementation from scratch (MNIST data)
+- [HW1](https://github.com/kayannr/ML-ECS271/blob/main/HW1/HW1_KayRoyo.html): kNN implementation from scratch (MNIST data)
   -   Object-oriented programming 
 
 - HW2: Single-layer fully connected neural network model for MNIST image classification trained using activation functions like ReLU and stochastic gradient descent (SGD) algorithm with mini-batch from scratch 
