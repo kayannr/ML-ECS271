@@ -1,4 +1,4 @@
-# ECS271 - Machine Learning & Discovery
+# Machine Learning & Discovery
 
 - [HW1](https://github.com/kayannr/ML-ECS271/blob/main/HW1): kNN implementation from scratch (MNIST data)
   -   Object-oriented programming 
